@@ -1,4 +1,4 @@
-👋 Olá! Eu sou Natália, uma entusiasta de Desenvolvimento Back End, atualmente cursando pós-graduação em Desenvolvimento Back End Jr. 💻
+👋 Olá! Eu sou Natália, uma desenvolvedora back end, atualmente cursando pós-graduação em Desenvolvimento Back End Jr. 💻
 
 📚 Já adquiri conhecimentos sólidos em Python e Java, abrangendo os conceitos fundamentais dessas linguagens. Em Java, manipulação de banco de dados usando JDBC, 
 e também adquiri experiência com JPA (Java Persistence API) para facilitar o acesso a bancos de dados relacionais.
