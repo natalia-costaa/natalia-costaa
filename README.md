@@ -8,6 +8,6 @@ Acredito no poder da colaboração e estou sempre aberto a contribuir em projeto
 
 🚀 Além do meu interesse em tecnologia, sou uma entusiasta de resolver problemas complexos e criar soluções inovadoras para melhorar a experiência do usuário e a eficiência dos sistemas.
 
-📫 Fique à vontade para entrar em contato comigo por e-mail: ncalbuq@gmail.com.
+📫 Fique à vontade para entrar em contato comigo por e-mail: nalbuqcosta@gmail.com.
 
 Vamos juntos construir um mundo melhor com tecnologia! 🌍✨
