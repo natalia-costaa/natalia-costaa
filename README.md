@@ -6,7 +6,7 @@ e também adquiri experiência com JPA (Java Persistence API) para facilitar o a
 🎓 Estou constantemente buscando novos desafios e oportunidades de aprendizado para aprimorar minhas habilidades em desenvolvimento de software. 
 Acredito no poder da colaboração e estou sempre aberto a contribuir em projetos interessantes e impactantes.
 
-🚀 Além do meu interesse em tecnologia, sou uma entusiasta de resolver problemas complexos e criar soluções inovadoras para melhorar a experiência do usuário e a eficiência dos sistemas.
+🚀 Além do meu interesse em tecnologia, gosto de criar soluções para melhorar a experiência do usuário e a eficiência dos sistemas.
 
 📫 Fique à vontade para entrar em contato comigo por e-mail: nalbuqcosta@gmail.com.
 
